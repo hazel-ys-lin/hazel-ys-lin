@@ -11,7 +11,7 @@ I am a Back-End Developer 👩‍💻 Based in **Taipei, Taiwan**.
 
 
 ### BIO
-🏢 I'm currently working at AppWorks School
+🏢 I'm currently searching for new job! 🚀
 
 🔧 I use daily: `.js`, `.pug`, `.py`, `.html`, `.cpp`
 
