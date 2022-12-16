@@ -7,13 +7,13 @@ I am a Back-End Developer 👩‍💻 Based in **Taipei, Taiwan**.
 ### NOW
 ✨ My latest project: [ServalRun®](https://serval.run/)
 
-☕️ Learning next: `Rust`, `Docker`, `Kubernetes`
+☕️ Learning next: `Rust`, `Docker`
 
 
 ### BIO
-🏢 I'm currently searching for new job! 🚀
+🏢 I'm currently working as a backend engineer 🖥️
 
-🔧 I use daily: `.js`, `.pug`, `.py`, `.html`, `.cpp`
+🔧 I use daily: `.js`, `.py`, `.cpp`
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hazel-lin-yi-sin/) | [Medium](https://medium.com/@amazingotter)
 
