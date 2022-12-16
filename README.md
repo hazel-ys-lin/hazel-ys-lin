@@ -7,7 +7,7 @@ I am a Back-End Developer 👩‍💻 Based in **Taipei, Taiwan**.
 ### NOW
 ✨ My latest project: [ServalRun®](https://serval.run/)
 
-☕️ Learning next: `Docker`, `Kubernetes`
+☕️ Learning next: `Rust`, `Docker`, `Kubernetes`
 
 
 ### BIO
