@@ -13,7 +13,7 @@ I am a Back-End Developer 👩‍💻 Based in **Taipei, Taiwan**.
 ### BIO
 🏢 I'm currently working as a backend engineer 🖥️
 
-🔧 I use daily: `.js`, `.py`, `.cpp`
+🔧 I use daily: `.js`, `.py`
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hazel-lin-yi-sin/) | [Medium](https://medium.com/@amazingotter)
 
