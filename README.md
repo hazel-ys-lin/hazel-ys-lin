@@ -2,12 +2,12 @@
 
 Hazel Lin here. You may call me Lin or Hazel.
 
-I am a Back-End Developer 👩‍💻 Based in **Taipei, Taiwan**.
+I am a Software Developer 👩‍💻 Based in **Taipei, Taiwan**.
 
 ### NOW
 ✨ My latest project: [ServalRun®](https://serval.run/)
 
-☕️ Learning next: `Rust`, `Docker`
+☕️ Learning: `Rust`, `Docker`
 
 
 ### BIO
